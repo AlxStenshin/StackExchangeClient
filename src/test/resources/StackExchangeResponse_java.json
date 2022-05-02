@@ -1,0 +1,818 @@
+{
+  "items": [
+    {
+      "tags": [
+        "java",
+        "arrays",
+        "loops"
+      ],
+      "owner": {
+        "account_id": 25162030,
+        "reputation": 1,
+        "user_id": 19006098,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a-/AOh14Ggn6k00rdpOtt6cPc6Rr3zRcbZylIib2_GdD3-Qcg=k-s256",
+        "display_name": "Kushagra Goel",
+        "link": "https://stackoverflow.com/users/19006098/kushagra-goel"
+      },
+      "is_answered": false,
+      "view_count": 11,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1651387503,
+      "creation_date": 1651386674,
+      "last_edit_date": 1651387054,
+      "question_id": 72074500,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72074500/bring-2d-array-contents-into-1d-array-java",
+      "title": "Bring 2d array contents into 1d array Java"
+    },
+    {
+      "tags": [
+        "java",
+        "math",
+        "division"
+      ],
+      "owner": {
+        "account_id": 22931744,
+        "reputation": 13,
+        "user_id": 17065901,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/f897b04a8ef8350e350d36ae9cc36032?s=256&d=identicon&r=PG",
+        "display_name": "UnityGames000",
+        "link": "https://stackoverflow.com/users/17065901/unitygames000"
+      },
+      "is_answered": false,
+      "view_count": 30,
+      "closed_date": 1651301070,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1651387017,
+      "creation_date": 1651300652,
+      "last_edit_date": 1651387017,
+      "question_id": 72066266,
+      "link": "https://stackoverflow.com/questions/72066266/how-to-get-better-division-precision-in-java",
+      "closed_reason": "Duplicate",
+      "title": "How to get better division precision in Java?"
+    },
+    {
+      "tags": [
+        "java",
+        "json",
+        "api"
+      ],
+      "owner": {
+        "account_id": 25160575,
+        "reputation": 1,
+        "user_id": 19004815,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/19f16075880626d7623907582dc0df2b?s=256&d=identicon&r=PG",
+        "display_name": "Jawad Rashid",
+        "link": "https://stackoverflow.com/users/19004815/jawad-rashid"
+      },
+      "is_answered": false,
+      "view_count": 17,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1651386761,
+      "creation_date": 1651369706,
+      "question_id": 72073451,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72073451/currency-converter-using-api-java",
+      "title": "Currency Converter using API JAVA"
+    },
+    {
+      "tags": [
+        "java",
+        "spring",
+        "gradle",
+        "spring-boot",
+        "build.gradle"
+      ],
+      "owner": {
+        "account_id": 426537,
+        "reputation": 10840,
+        "user_id": 807797,
+        "user_type": "registered",
+        "accept_rate": 72,
+        "profile_image": "https://www.gravatar.com/avatar/4072657366a6ad674347c2a216318623?s=256&d=identicon&r=PG",
+        "display_name": "CodeMed",
+        "link": "https://stackoverflow.com/users/807797/codemed"
+      },
+      "is_answered": true,
+      "view_count": 96876,
+      "accepted_answer_id": 34426564,
+      "answer_count": 4,
+      "score": 27,
+      "last_activity_date": 1651385519,
+      "creation_date": 1450825932,
+      "last_edit_date": 1450828023,
+      "question_id": 34425992,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/34425992/gradle-process-command-java-finished-with-non-zero-exit-value-1",
+      "title": "gradle process command java finished with non-zero exit value 1"
+    },
+    {
+      "tags": [
+        "gitlab",
+        "gitlab-ci",
+        "cicd"
+      ],
+      "owner": {
+        "account_id": 24561710,
+        "reputation": 11,
+        "user_id": 18469352,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a-/AOh14GhwCK5U9bjPYidfIvpyqtKKriCB-1LNsWSfK-cSNg=k-s256",
+        "display_name": "eleven dimensions",
+        "link": "https://stackoverflow.com/users/18469352/eleven-dimensions"
+      },
+      "is_answered": false,
+      "view_count": 8,
+      "answer_count": 0,
+      "score": 1,
+      "last_activity_date": 1651384917,
+      "creation_date": 1651384917,
+      "question_id": 72074370,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72074370/gitlab-cicd-create-image-with-java-maven-and-python",
+      "title": "Gitlab CICD Create image with java maven and python"
+    },
+    {
+      "tags": [
+        "java",
+        "image",
+        "android-studio"
+      ],
+      "owner": {
+        "account_id": 23992494,
+        "reputation": 68,
+        "user_id": 17978414,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/7981b9fb33a6c83766f8fc971adc3dff?s=256&d=identicon&r=PG",
+        "display_name": "pandaman",
+        "link": "https://stackoverflow.com/users/17978414/pandaman"
+      },
+      "is_answered": true,
+      "view_count": 64,
+      "accepted_answer_id": 71597525,
+      "answer_count": 1,
+      "score": 2,
+      "last_activity_date": 1651382772,
+      "creation_date": 1648050278,
+      "last_edit_date": 1648136380,
+      "question_id": 71590120,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/71590120/image-doesnt-send-for-other-side-android-studio-java",
+      "title": "Image doesn&#39;t send for other side Android Studio java"
+    },
+    {
+      "tags": [
+        "java",
+        "cross-compiling",
+        "javac",
+        "java-11"
+      ],
+      "owner": {
+        "account_id": 4538133,
+        "reputation": 5990,
+        "user_id": 3686755,
+        "user_type": "registered",
+        "accept_rate": 88,
+        "profile_image": "https://www.gravatar.com/avatar/976c04703d1b52c15d067c0556d5064c?s=256&d=identicon&r=PG",
+        "display_name": "neshkeev",
+        "link": "https://stackoverflow.com/users/3686755/neshkeev"
+      },
+      "is_answered": true,
+      "view_count": 38911,
+      "accepted_answer_id": 56064482,
+      "answer_count": 5,
+      "score": 53,
+      "last_activity_date": 1651381322,
+      "creation_date": 1548874171,
+      "last_edit_date": 1651381322,
+      "question_id": 54447541,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/54447541/how-to-write-code-in-java-11-but-target-java-8-and-above",
+      "title": "How to write code in Java 11, but target Java 8 and above?"
+    },
+    {
+      "tags": [
+        "java"
+      ],
+      "owner": {
+        "account_id": 23742391,
+        "reputation": 11,
+        "user_id": 17760283,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/g5AJ5.png?s=256&g=1",
+        "display_name": "Spider",
+        "link": "https://stackoverflow.com/users/17760283/spider"
+      },
+      "is_answered": true,
+      "view_count": 41,
+      "accepted_answer_id": 72074030,
+      "answer_count": 3,
+      "score": 0,
+      "last_activity_date": 1651381225,
+      "creation_date": 1651378731,
+      "question_id": 72073962,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72073962/java-how-can-i-reverse-the-string-and-parse-it-with-in-java",
+      "title": "JAVA : How can I reverse the string and parse it with &#39;-&#39; in Java"
+    },
+    {
+      "tags": [
+        "java",
+        "string",
+        "swap",
+        "stringbuilder"
+      ],
+      "owner": {
+        "account_id": 23868833,
+        "reputation": 1,
+        "user_id": 17870819,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a-/AOh14GiaIW-f7k-U9CWnkIaElJovvIQJScGFdlxkiGHp=k-s256",
+        "display_name": "Umesh Pawar",
+        "link": "https://stackoverflow.com/users/17870819/umesh-pawar"
+      },
+      "is_answered": false,
+      "view_count": 17,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1651381209,
+      "creation_date": 1651375247,
+      "question_id": 72073758,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72073758/the-left-hand-side-of-an-assignment-must-be-a-variable-java-problem",
+      "title": "The left-hand side of an assignment must be a variable Java problem"
+    },
+    {
+      "tags": [
+        "java",
+        "csv",
+        "java-stream",
+        "mapping"
+      ],
+      "owner": {
+        "account_id": 16611573,
+        "reputation": 47,
+        "user_id": 12004421,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/JZBoP.png?s=256&g=1",
+        "display_name": "Eris Cacigieri",
+        "link": "https://stackoverflow.com/users/12004421/eris-cacigieri"
+      },
+      "is_answered": false,
+      "view_count": 17,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1651380916,
+      "creation_date": 1651377859,
+      "last_edit_date": 1651380916,
+      "question_id": 72073909,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72073909/java-from-a-stream-operation-how-do-i-map-a-set-of-values-to-anoter-value",
+      "title": "(Java) From a stream operation, how do I map a set of values to anoter value?"
+    },
+    {
+      "tags": [
+        "java",
+        "cmd"
+      ],
+      "owner": {
+        "account_id": 23236348,
+        "reputation": 55,
+        "user_id": 18618821,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a/AATXAJy_Hy2yI0mificLzC2QbfGqK36AKEyOcTWhhHit=k-s256",
+        "display_name": "Arron Starmer",
+        "link": "https://stackoverflow.com/users/18618821/arron-starmer"
+      },
+      "is_answered": true,
+      "view_count": 35,
+      "answer_count": 1,
+      "score": -1,
+      "last_activity_date": 1651380037,
+      "creation_date": 1651241220,
+      "last_edit_date": 1651380037,
+      "question_id": 72059235,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72059235/how-to-run-java-from-cmd",
+      "title": "How to run Java from cmd?"
+    },
+    {
+      "tags": [
+        "java"
+      ],
+      "owner": {
+        "account_id": 25161297,
+        "reputation": 1,
+        "user_id": 19005447,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/56b624f03700202f5b718528038d53cc?s=256&d=identicon&r=PG",
+        "display_name": "MohammadAlabsi",
+        "link": "https://stackoverflow.com/users/19005447/mohammadalabsi"
+      },
+      "is_answered": false,
+      "view_count": 20,
+      "closed_date": 1651381149,
+      "answer_count": 0,
+      "score": -3,
+      "last_activity_date": 1651379476,
+      "creation_date": 1651378204,
+      "last_edit_date": 1651379476,
+      "question_id": 72073926,
+      "link": "https://stackoverflow.com/questions/72073926/what-is-the-best-solution-to-a-question-written-in-java-on-netbeans",
+      "closed_reason": "Needs more focus",
+      "title": "What is the best solution to a question written in Java on NetBeans?"
+    },
+    {
+      "tags": [
+        "java",
+        "tomcat",
+        "compiler-errors",
+        "classloader",
+        "programmatically"
+      ],
+      "owner": {
+        "account_id": 25161105,
+        "reputation": 1,
+        "user_id": 19005287,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a/AATXAJxcLNXbCfMiWHDMqI_4ufq4RnH9lhzwd7IPyvQo=k-s256",
+        "display_name": "Just Need To Vent",
+        "link": "https://stackoverflow.com/users/19005287/just-need-to-vent"
+      },
+      "is_answered": false,
+      "view_count": 16,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1651376261,
+      "creation_date": 1651376261,
+      "question_id": 72073806,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72073806/how-to-compile-a-uploaded-java-file-that-implements-an-interface-in-war",
+      "title": "How to compile a uploaded Java file that implements an interface in WAR?"
+    },
+    {
+      "tags": [
+        "java"
+      ],
+      "owner": {
+        "account_id": 21827594,
+        "reputation": 1,
+        "user_id": 16122872,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/e6dafd9860a30c46c9517284ed876ee5?s=256&d=identicon&r=PG&f=1",
+        "display_name": "curiouscreature99",
+        "link": "https://stackoverflow.com/users/16122872/curiouscreature99"
+      },
+      "is_answered": false,
+      "view_count": 42,
+      "answer_count": 0,
+      "score": -6,
+      "last_activity_date": 1651375575,
+      "creation_date": 1651372297,
+      "question_id": 72073614,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72073614/constructors-inheritance-in-java",
+      "title": "Constructors &amp; Inheritance in java"
+    },
+    {
+      "tags": [
+        "java",
+        "object",
+        "arraylist"
+      ],
+      "owner": {
+        "account_id": 25160962,
+        "reputation": 1,
+        "user_id": 19005157,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/f82c9112d638205639e54649e8512f87?s=256&d=identicon&r=PG",
+        "display_name": "satrn",
+        "link": "https://stackoverflow.com/users/19005157/satrn"
+      },
+      "is_answered": false,
+      "view_count": 18,
+      "closed_date": 1651374817,
+      "answer_count": 0,
+      "score": -3,
+      "last_activity_date": 1651374897,
+      "creation_date": 1651374037,
+      "last_edit_date": 1651374897,
+      "question_id": 72073692,
+      "link": "https://stackoverflow.com/questions/72073692/when-trying-to-overwrite-a-equals-method-in-java-it-wont-compare-the-values-only",
+      "closed_reason": "Needs more focus",
+      "title": "When trying to overwrite a equals method in java it wont compare the values only the object itself?"
+    },
+    {
+      "tags": [
+        "java",
+        "function"
+      ],
+      "owner": {
+        "account_id": 18137638,
+        "reputation": 41,
+        "user_id": 15063981,
+        "user_type": "registered",
+        "profile_image": "https://lh4.googleusercontent.com/-3p1FIwAoZAM/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJOid6OZwzf9WH3ryQ4ssWztiFKNug/photo.jpg?sz=256",
+        "display_name": "Tah",
+        "link": "https://stackoverflow.com/users/15063981/tah"
+      },
+      "is_answered": false,
+      "view_count": 20,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1651372857,
+      "creation_date": 1651369958,
+      "question_id": 72073468,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72073468/java-check-if-function-was-called-by-another",
+      "title": "Java Check if Function was Called by Another"
+    },
+    {
+      "tags": [
+        "java",
+        "arrays"
+      ],
+      "owner": {
+        "account_id": 24947255,
+        "reputation": 17,
+        "user_id": 18812458,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/fb49f5ac49f2bd3c30c379d8f3ea797b?s=256&d=identicon&r=PG",
+        "display_name": "Cwarren",
+        "link": "https://stackoverflow.com/users/18812458/cwarren"
+      },
+      "is_answered": false,
+      "view_count": 23,
+      "closed_date": 1651374402,
+      "answer_count": 0,
+      "score": -3,
+      "last_activity_date": 1651371912,
+      "creation_date": 1651371325,
+      "last_edit_date": 1651371912,
+      "question_id": 72073546,
+      "link": "https://stackoverflow.com/questions/72073546/how-can-i-print-my-information-in-java-without-any-type-of-array",
+      "closed_reason": "Not suitable for this site",
+      "title": "How can i print my information in Java WITHOUT any type of array"
+    },
+    {
+      "tags": [
+        "java",
+        "documentation",
+        "anonymous-class"
+      ],
+      "owner": {
+        "account_id": 18744389,
+        "reputation": 41,
+        "user_id": 13666953,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a-/AOh14GheUuMxu2bnOhBaRFwfV9zPKI6xeCrbz3n_eu4LWQ=k-s256",
+        "display_name": "Juliano",
+        "link": "https://stackoverflow.com/users/13666953/juliano"
+      },
+      "is_answered": true,
+      "view_count": 23,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1651371593,
+      "creation_date": 1651369841,
+      "last_edit_date": 1651370952,
+      "question_id": 72073459,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72073459/is-oracles-java-tutorial-outdated-in-some-cases-if-so-why-dont-they-update-it",
+      "title": "Is Oracle&#39;s Java tutorial outdated in some cases? If so, why dont they update it?"
+    },
+    {
+      "tags": [
+        "java",
+        "arrays"
+      ],
+      "owner": {
+        "account_id": 20008575,
+        "reputation": 1,
+        "user_id": 17545832,
+        "user_type": "registered",
+        "profile_image": "https://graph.facebook.com/2174800902673279/picture?type=large",
+        "display_name": "Olivier Pimpar&#233;-Charbonneau",
+        "link": "https://stackoverflow.com/users/17545832/olivier-pimpar%c3%a9-charbonneau"
+      },
+      "is_answered": false,
+      "view_count": 11,
+      "closed_date": 1651370447,
+      "answer_count": 0,
+      "score": -1,
+      "last_activity_date": 1651370103,
+      "creation_date": 1651369316,
+      "last_edit_date": 1651370103,
+      "question_id": 72073432,
+      "link": "https://stackoverflow.com/questions/72073432/java-error-in-zylabs-even-though-code-works-fine",
+      "closed_reason": "Duplicate",
+      "title": "java error in zylabs even though code works fine"
+    },
+    {
+      "tags": [
+        "java",
+        "arrays",
+        "multidimensional-array"
+      ],
+      "owner": {
+        "account_id": 22885208,
+        "reputation": 5,
+        "user_id": 17026191,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/SjP19.jpg?s=256&g=1",
+        "display_name": "Zoey",
+        "link": "https://stackoverflow.com/users/17026191/zoey"
+      },
+      "is_answered": true,
+      "view_count": 24,
+      "accepted_answer_id": 72073357,
+      "answer_count": 1,
+      "score": -1,
+      "last_activity_date": 1651368174,
+      "creation_date": 1651367631,
+      "last_edit_date": 1651368174,
+      "question_id": 72073336,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72073336/adding-more-than-1-thing-into-a-java-array",
+      "title": "Adding more than 1 thing into a Java Array"
+    },
+    {
+      "tags": [
+        "java",
+        "arrays",
+        "json",
+        "dictionary"
+      ],
+      "owner": {
+        "account_id": 21110568,
+        "reputation": 1,
+        "user_id": 15518615,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/c31e91c3218b1f48eca97f33e5c05c1c?s=256&d=identicon&r=PG&f=1",
+        "display_name": "Luis MC",
+        "link": "https://stackoverflow.com/users/15518615/luis-mc"
+      },
+      "is_answered": true,
+      "view_count": 24,
+      "answer_count": 1,
+      "score": -1,
+      "last_activity_date": 1651367606,
+      "creation_date": 1651363269,
+      "question_id": 72073067,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72073067/get-json-values-from-a-jsonarray-inside-a-json-in-java-using-map",
+      "title": "get Json values from a JsonArray inside a Json in Java using Map"
+    },
+    {
+      "tags": [
+        "ubuntu",
+        "gradle",
+        "kotlin",
+        "gradlew"
+      ],
+      "owner": {
+        "account_id": 2219204,
+        "reputation": 1165,
+        "user_id": 1959095,
+        "user_type": "registered",
+        "accept_rate": 73,
+        "profile_image": "https://www.gravatar.com/avatar/1bde8b2d8765f3948810e373d1bbc6c3?s=256&d=identicon&r=PG",
+        "display_name": "Krzysztof Piszko",
+        "link": "https://stackoverflow.com/users/1959095/krzysztof-piszko"
+      },
+      "is_answered": true,
+      "view_count": 85427,
+      "answer_count": 18,
+      "score": 87,
+      "last_activity_date": 1651367292,
+      "creation_date": 1553191006,
+      "question_id": 55286542,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/55286542/kotlin-could-not-find-the-required-jdk-tools-in-the-java-installation",
+      "title": "Kotlin could not find the required JDK tools in the Java installation"
+    },
+    {
+      "tags": [
+        "java",
+        "generics",
+        "casting"
+      ],
+      "owner": {
+        "account_id": 25135825,
+        "reputation": 51,
+        "user_id": 18982610,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/104cf451d6327f384ebd8f0a99d7e45b?s=256&d=identicon&r=PG",
+        "display_name": "cactus020",
+        "link": "https://stackoverflow.com/users/18982610/cactus020"
+      },
+      "is_answered": true,
+      "view_count": 32,
+      "accepted_answer_id": 72073308,
+      "answer_count": 1,
+      "score": 2,
+      "last_activity_date": 1651367243,
+      "creation_date": 1651192257,
+      "last_edit_date": 1651292130,
+      "question_id": 72051594,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72051594/java-initialize-array-with-mutiple-type-parameters-error-java-lang-classcastexce",
+      "title": "Java initialize array with mutiple type parameters error java.lang.ClassCastException: [Ljava.lang.Object; cannot be cast to"
+    },
+    {
+      "tags": [
+        "java",
+        "if-statement",
+        "multiple-conditions",
+        "recursive-descent"
+      ],
+      "owner": {
+        "account_id": 12951112,
+        "reputation": 1,
+        "user_id": 9363401,
+        "user_type": "registered",
+        "profile_image": "https://lh6.googleusercontent.com/-u8Z_zcBtYik/AAAAAAAAAAI/AAAAAAAAATA/jSPaLdDkefo/photo.jpg?sz=256",
+        "display_name": "Corey Hodges",
+        "link": "https://stackoverflow.com/users/9363401/corey-hodges"
+      },
+      "is_answered": false,
+      "view_count": 109,
+      "closed_date": 1651219098,
+      "answer_count": 6,
+      "score": -2,
+      "last_activity_date": 1651367068,
+      "creation_date": 1650742638,
+      "last_edit_date": 1651367068,
+      "question_id": 71983056,
+      "link": "https://stackoverflow.com/questions/71983056/how-do-i-make-this-a-recursive-decent-parser-in-java",
+      "closed_reason": "Needs details or clarity",
+      "title": "How do I make this a recursive decent parser in java?"
+    },
+    {
+      "tags": [
+        "java",
+        "minecraft"
+      ],
+      "owner": {
+        "account_id": 21619923,
+        "reputation": 1,
+        "user_id": 15945092,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a-/AOh14GgzVSA_bCP8puIJCe577f1X2fbYuPuxbhMy3P4oxw=k-s256",
+        "display_name": "Necati Mert",
+        "link": "https://stackoverflow.com/users/15945092/necati-mert"
+      },
+      "is_answered": false,
+      "view_count": 13,
+      "answer_count": 0,
+      "score": -1,
+      "last_activity_date": 1651366519,
+      "creation_date": 1651360605,
+      "last_edit_date": 1651366519,
+      "question_id": 72072876,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72072876/minecraft-java-scaledresolution",
+      "title": "Minecraft Java ScaledResolution"
+    },
+    {
+      "tags": [
+        "java"
+      ],
+      "owner": {
+        "account_id": 4885117,
+        "reputation": 1358,
+        "user_id": 3937811,
+        "user_type": "registered",
+        "accept_rate": 91,
+        "profile_image": "https://i.stack.imgur.com/Zt1z6.png?s=256&g=1",
+        "display_name": "Evan Gertis",
+        "link": "https://stackoverflow.com/users/3937811/evan-gertis"
+      },
+      "is_answered": false,
+      "view_count": 39,
+      "answer_count": 2,
+      "score": 0,
+      "last_activity_date": 1651366104,
+      "creation_date": 1651330472,
+      "last_edit_date": 1651366104,
+      "question_id": 72069542,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72069542/how-to-implement-selection-sort-with-a-comparator-in-java",
+      "title": "How to implement selection sort with a comparator in Java"
+    },
+    {
+      "tags": [
+        "java"
+      ],
+      "owner": {
+        "account_id": 25148092,
+        "reputation": 1,
+        "user_id": 18993629,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/bfb4a3591cbf10e5a6f1d68eb0105471?s=256&d=identicon&r=PG",
+        "display_name": "jay",
+        "link": "https://stackoverflow.com/users/18993629/jay"
+      },
+      "is_answered": false,
+      "view_count": 26,
+      "closed_date": 1651345934,
+      "answer_count": 0,
+      "score": -4,
+      "last_activity_date": 1651365966,
+      "creation_date": 1651343545,
+      "last_edit_date": 1651365966,
+      "question_id": 72071149,
+      "link": "https://stackoverflow.com/questions/72071149/implement-a-calculator-with-java-with-recursive-descent-method",
+      "closed_reason": "Needs more focus",
+      "title": "Implement a calculator with java with recursive descent method"
+    },
+    {
+      "tags": [
+        "java",
+        "opencv",
+        "video",
+        "video-streaming"
+      ],
+      "owner": {
+        "account_id": 24582268,
+        "reputation": 1,
+        "user_id": 18487212,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a-/AOh14Gjw19tLTeD_wWCrKojLneyAALZ55IcR7872huv1CA=k-s256",
+        "display_name": "Name Surname",
+        "link": "https://stackoverflow.com/users/18487212/name-surname"
+      },
+      "is_answered": false,
+      "view_count": 31,
+      "answer_count": 0,
+      "score": -1,
+      "last_activity_date": 1651363650,
+      "creation_date": 1651164607,
+      "last_edit_date": 1651363650,
+      "question_id": 72047496,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72047496/how-to-fix-an-error-with-connecting-an-ip-camera-using-opencv-in-java",
+      "title": "How to fix an error with connecting an IP camera using opencv in java?"
+    },
+    {
+      "tags": [
+        "java",
+        "arrays",
+        "multidimensional-array"
+      ],
+      "owner": {
+        "account_id": 22885208,
+        "reputation": 5,
+        "user_id": 17026191,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/SjP19.jpg?s=256&g=1",
+        "display_name": "Zoey",
+        "link": "https://stackoverflow.com/users/17026191/zoey"
+      },
+      "is_answered": true,
+      "view_count": 26,
+      "accepted_answer_id": 72072873,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1651360877,
+      "creation_date": 1651359750,
+      "question_id": 72072807,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72072807/creating-a-java-increasing-alphabet-grid-with-a-5x5-array",
+      "title": "Creating a Java increasing alphabet grid with a 5x5 array"
+    },
+    {
+      "tags": [
+        "livy"
+      ],
+      "owner": {
+        "account_id": 6789104,
+        "reputation": 38,
+        "user_id": 5856262,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/d09f5616aae0d00af76f4946cafd1286?s=256&d=identicon&r=PG&f=1",
+        "display_name": "oskarryn",
+        "link": "https://stackoverflow.com/users/5856262/oskarryn"
+      },
+      "is_answered": false,
+      "view_count": 4,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1651358542,
+      "creation_date": 1651358542,
+      "question_id": 72072708,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72072708/how-to-get-the-state-of-a-remote-job-in-livy-using-java-api",
+      "title": "How to get the state of a remote job in Livy using Java API"
+    }
+  ],
+  "has_more": true,
+  "quota_max": 300,
+  "quota_remaining": 299
+}

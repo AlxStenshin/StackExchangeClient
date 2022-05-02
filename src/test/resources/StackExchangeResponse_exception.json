@@ -1,0 +1,824 @@
+{
+  "items": [
+    {
+      "tags": [
+        "c#",
+        "uwp",
+        "zipfile",
+        "c#-ziparchive"
+      ],
+      "owner": {
+        "account_id": 14254269,
+        "reputation": 332,
+        "user_id": 10297016,
+        "user_type": "registered",
+        "profile_image": "https://lh6.googleusercontent.com/-DtjWn1vnVUg/AAAAAAAAAAI/AAAAAAAAAAA/APUIFaMqHTTqqUxSMyoD9tLP49G0gjqwNQ/mo/photo.jpg?sz=256",
+        "display_name": "Francois Gagnon",
+        "link": "https://stackoverflow.com/users/10297016/francois-gagnon"
+      },
+      "is_answered": true,
+      "view_count": 316,
+      "accepted_answer_id": 58406320,
+      "answer_count": 3,
+      "score": 0,
+      "last_activity_date": 1651407370,
+      "creation_date": 1571196614,
+      "last_edit_date": 1651407370,
+      "question_id": 58405343,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/58405343/zipfile-openread-throws-access-to-the-path-is-denied-exception-in-c-uwp-app",
+      "title": "Zipfile OpenRead throws Access to the path is denied exception in c# uwp app?"
+    },
+    {
+      "tags": [
+        "python",
+        "discord.py",
+        "pycord"
+      ],
+      "owner": {
+        "account_id": 22582508,
+        "reputation": 1,
+        "user_id": 16766975,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a-/AOh14Gg77UFCprBUw4sBkijbmemlZzxE6cmp7oQkau4hMQ=k-s256",
+        "display_name": "Vybranium",
+        "link": "https://stackoverflow.com/users/16766975/vybranium"
+      },
+      "is_answered": false,
+      "view_count": 8,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1651404957,
+      "creation_date": 1651404957,
+      "question_id": 72076314,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72076314/i-get-a-http-exception-405-error-when-i-run-my-py-cord-program",
+      "title": "I get a HTTP Exception 405 error when I run my py-cord program"
+    },
+    {
+      "tags": [
+        "python",
+        "exception",
+        "mypy",
+        "python-typing"
+      ],
+      "owner": {
+        "account_id": 1388614,
+        "reputation": 24377,
+        "user_id": 1319998,
+        "user_type": "registered",
+        "accept_rate": 58,
+        "profile_image": "https://i.stack.imgur.com/EP486.jpg?s=256&g=1",
+        "display_name": "Michal Charemza",
+        "link": "https://stackoverflow.com/users/1319998/michal-charemza"
+      },
+      "is_answered": false,
+      "view_count": 10,
+      "answer_count": 2,
+      "score": 0,
+      "last_activity_date": 1651402863,
+      "creation_date": 1651401822,
+      "question_id": 72075981,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72075981/dynamic-exception-type-checking",
+      "title": "Dynamic exception type checking"
+    },
+    {
+      "tags": [
+        "jenkins",
+        "jmeter"
+      ],
+      "owner": {
+        "account_id": 2665015,
+        "reputation": 2337,
+        "user_id": 2303693,
+        "user_type": "registered",
+        "accept_rate": 67,
+        "profile_image": "https://www.gravatar.com/avatar/487bcf3f579431d32b06aebf66e3c39d?s=256&d=identicon&r=PG",
+        "display_name": "SMPH",
+        "link": "https://stackoverflow.com/users/2303693/smph"
+      },
+      "is_answered": false,
+      "view_count": 22,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1651402108,
+      "creation_date": 1651200125,
+      "last_edit_date": 1651402108,
+      "question_id": 72052227,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72052227/null-pointer-exception-in-jmeter-report-generation-in-jenkins-pipeline",
+      "title": "Null pointer exception in Jmeter report generation in Jenkins pipeline"
+    },
+    {
+      "tags": [
+        "jenkins",
+        "jenkins-pipeline",
+        "jenkins-plugins",
+        "jenkins-job-dsl"
+      ],
+      "owner": {
+        "account_id": 25148976,
+        "reputation": 1,
+        "user_id": 18994425,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a-/AOh14Gj2-lK3ms74VVKLABxWeL2LW6628AnoUhYI7MIqlA=k-s256",
+        "display_name": "kundan sharma",
+        "link": "https://stackoverflow.com/users/18994425/kundan-sharma"
+      },
+      "is_answered": false,
+      "view_count": 16,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1651401311,
+      "creation_date": 1651268910,
+      "last_edit_date": 1651401311,
+      "question_id": 72063990,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72063990/i-have-added-git-plugin-in-jenkins-after-that-all-my-jobs-are-throwing-exception",
+      "title": "I have added Git plugin in Jenkins after that all my jobs are throwing exception stating failed to load"
+    },
+    {
+      "tags": [
+        "c#",
+        "asp.net-mvc",
+        "razor"
+      ],
+      "owner": {
+        "account_id": 16627873,
+        "reputation": 13,
+        "user_id": 12016497,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/831778b1a3f3f6f75abaa6a6f4475bac?s=256&d=identicon&r=PG&f=1",
+        "display_name": "Ryan",
+        "link": "https://stackoverflow.com/users/12016497/ryan"
+      },
+      "is_answered": false,
+      "view_count": 36,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1651400945,
+      "creation_date": 1650905904,
+      "last_edit_date": 1651400945,
+      "question_id": 72003104,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72003104/trying-to-edit-and-continue-on-a-cshtml-file-is-always-throwing-an-exception",
+      "title": "Trying to Edit and Continue on a cshtml file is always throwing an exception"
+    },
+    {
+      "tags": [
+        "javascript",
+        "c#",
+        "jquery",
+        "asp.net-mvc"
+      ],
+      "owner": {
+        "account_id": 7667898,
+        "reputation": 29,
+        "user_id": 5811110,
+        "user_type": "registered",
+        "profile_image": "https://graph.facebook.com/10208259886595377/picture?type=large",
+        "display_name": "Adok",
+        "link": "https://stackoverflow.com/users/5811110/adok"
+      },
+      "is_answered": false,
+      "view_count": 40,
+      "answer_count": 1,
+      "score": -1,
+      "last_activity_date": 1651400909,
+      "creation_date": 1650616861,
+      "last_edit_date": 1651400909,
+      "question_id": 71965827,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/71965827/httpcontext-request-form-threw-an-exception-of-type-system-invalidoperationexce",
+      "title": "HttpContext.Request.Form threw an exception of type &#39;System.InvalidOperationException&#39; - why?"
+    },
+    {
+      "tags": [
+        "elasticsearch"
+      ],
+      "owner": {
+        "account_id": 3887475,
+        "reputation": 8634,
+        "user_id": 3218482,
+        "user_type": "registered",
+        "accept_rate": 61,
+        "profile_image": "https://www.gravatar.com/avatar/bc04d7eacb4faf8ef4b32a3debdd166a?s=256&d=identicon&r=PG&f=1",
+        "display_name": "Eyal Ch",
+        "link": "https://stackoverflow.com/users/3218482/eyal-ch"
+      },
+      "is_answered": false,
+      "view_count": 15,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1651400408,
+      "creation_date": 1651390718,
+      "last_edit_date": 1651400408,
+      "question_id": 72074856,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72074856/elasticsearch-java-lang-float-cannot-be-cast-to-java-lang-double-exception",
+      "title": "Elasticsearch java.lang.Float cannot be cast to java.lang.Double exception"
+    },
+    {
+      "tags": [
+        "sql",
+        "oracle",
+        "plsql",
+        "triggers",
+        "constraints"
+      ],
+      "owner": {
+        "account_id": 17455575,
+        "reputation": 21,
+        "user_id": 12654533,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/71a6d292232b554c1a18fee3a4b40354?s=256&d=identicon&r=PG",
+        "display_name": "skoooozy",
+        "link": "https://stackoverflow.com/users/12654533/skoooozy"
+      },
+      "is_answered": true,
+      "view_count": 33,
+      "answer_count": 2,
+      "score": 0,
+      "last_activity_date": 1651399904,
+      "creation_date": 1651347744,
+      "question_id": 72071645,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72071645/throwing-an-exception-when-two-tables-contain-the-same-record",
+      "title": "Throwing an exception when two tables contain the same record"
+    },
+    {
+      "tags": [
+        "android",
+        "firebase",
+        "firebase-storage"
+      ],
+      "owner": {
+        "account_id": 12548528,
+        "reputation": 119,
+        "user_id": 9131031,
+        "user_type": "registered",
+        "profile_image": "https://lh4.googleusercontent.com/-sYVa8MrwJ3w/AAAAAAAAAAI/AAAAAAAAAAs/YxR48RPdTKE/photo.jpg?sz=256",
+        "display_name": "FPoly HCM - K123v2 Le Xuan Du",
+        "link": "https://stackoverflow.com/users/9131031/fpoly-hcm-k123v2-le-xuan-du"
+      },
+      "is_answered": true,
+      "view_count": 20386,
+      "answer_count": 17,
+      "score": 10,
+      "last_activity_date": 1651398420,
+      "creation_date": 1514562167,
+      "last_edit_date": 1610614280,
+      "question_id": 48024945,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/48024945/storageexception-an-unknown-error-occurred-please-check-the-http-result-code-a",
+      "title": "StorageException: An unknown error occurred, please check the HTTP result code and inner exception for server response"
+    },
+    {
+      "tags": [
+        "java"
+      ],
+      "owner": {
+        "account_id": 25163138,
+        "reputation": 1,
+        "user_id": 19007039,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a-/AOh14GhNTFnctDygs4yAlhN6S7WEaMkbQOa83Gahqwp8=k-s256",
+        "display_name": "Abdul Haleem Haseeb",
+        "link": "https://stackoverflow.com/users/19007039/abdul-haleem-haseeb"
+      },
+      "is_answered": false,
+      "view_count": 10,
+      "closed_date": 1651403556,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1651398063,
+      "creation_date": 1651398008,
+      "last_edit_date": 1651398063,
+      "question_id": 72075599,
+      "link": "https://stackoverflow.com/questions/72075599/exception-in-thread-awt-eventqueue-0-java-lang-unsupportedoperationexception",
+      "closed_reason": "Not suitable for this site",
+      "title": "Exception in thread &quot;AWT-EventQueue-0&quot; java.lang.UnsupportedOperationException: Not supported yet. College Project"
+    },
+    {
+      "tags": [
+        "google-analytics"
+      ],
+      "owner": {
+        "account_id": 25163078,
+        "reputation": 1,
+        "user_id": 19006984,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a/AATXAJyLtZAZ5Rv_dYE-i6yac4KeljPLKn1BvXMp3BGo=k-s256",
+        "display_name": "Eugene.Work.T",
+        "link": "https://stackoverflow.com/users/19006984/eugene-work-t"
+      },
+      "is_answered": false,
+      "view_count": 4,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1651397588,
+      "creation_date": 1651397588,
+      "question_id": 72075548,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72075548/no-exception-track-type-found-in-universal-analytics-tag-configuration-via-googl",
+      "title": "No Exception track type found in Universal Analytics Tag Configuration via Google Tag Manager"
+    },
+    {
+      "tags": [
+        "django",
+        "exception",
+        "django-models",
+        "django-constraints"
+      ],
+      "owner": {
+        "account_id": 20830404,
+        "reputation": 386,
+        "user_id": 15299833,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/xH0Z6.jpg?s=256&g=1",
+        "display_name": "aaronn",
+        "link": "https://stackoverflow.com/users/15299833/aaronn"
+      },
+      "is_answered": true,
+      "view_count": 17,
+      "accepted_answer_id": 72075420,
+      "answer_count": 1,
+      "score": 2,
+      "last_activity_date": 1651396357,
+      "creation_date": 1651394630,
+      "question_id": 72075251,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72075251/django-uniqueconstraint-exception-handled-the-same-as-unique-true",
+      "title": "Django `UniqueConstraint` exception handled the same as &#39;unique=True&#39;"
+    },
+    {
+      "tags": [
+        "python",
+        "html",
+        "django"
+      ],
+      "owner": {
+        "account_id": 15128388,
+        "reputation": 23,
+        "user_id": 10917026,
+        "user_type": "registered",
+        "profile_image": "https://lh4.googleusercontent.com/-PSMqRqSkVtQ/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcZqV0MswcPQsJiZMxxk-4sWHKgMSw/mo/photo.jpg?sz=256",
+        "display_name": "Prakhar",
+        "link": "https://stackoverflow.com/users/10917026/prakhar"
+      },
+      "is_answered": true,
+      "view_count": 874,
+      "accepted_answer_id": 67948323,
+      "answer_count": 4,
+      "score": 2,
+      "last_activity_date": 1651394319,
+      "creation_date": 1623495948,
+      "last_edit_date": 1623496428,
+      "question_id": 67948226,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/67948226/django-exception-templatedoesnotexist-at",
+      "title": "Django Exception: &#39;TemplateDoesNotExist at /&#39;"
+    },
+    {
+      "tags": [
+        "java",
+        "spring",
+        "hibernate"
+      ],
+      "owner": {
+        "account_id": 18459260,
+        "reputation": 11,
+        "user_id": 13447185,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/133119300c187d829e460aac47bca073?s=256&d=identicon&r=PG&f=1",
+        "display_name": "egor-n",
+        "link": "https://stackoverflow.com/users/13447185/egor-n"
+      },
+      "is_answered": false,
+      "view_count": 64,
+      "answer_count": 1,
+      "score": 1,
+      "last_activity_date": 1651392467,
+      "creation_date": 1650873444,
+      "last_edit_date": 1650875954,
+      "question_id": 71996211,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/71996211/error-creating-bean-with-name-entitymanagerfactory-nested-exception-is-java-l",
+      "title": "Error creating bean with name &#39;entityManagerFactory - nested exception is java.lang.NullPointerException"
+    },
+    {
+      "tags": [
+        "java",
+        "exception"
+      ],
+      "owner": {
+        "account_id": 8582865,
+        "reputation": 3775,
+        "user_id": 6474292,
+        "user_type": "registered",
+        "accept_rate": 56,
+        "profile_image": "https://www.gravatar.com/avatar/8ebf511ecf08835d32a527bf9a328ddb?s=256&d=identicon&r=PG&f=1",
+        "display_name": "David",
+        "link": "https://stackoverflow.com/users/6474292/david"
+      },
+      "is_answered": true,
+      "view_count": 44,
+      "answer_count": 4,
+      "score": 0,
+      "last_activity_date": 1651382531,
+      "creation_date": 1651375847,
+      "last_edit_date": 1651382531,
+      "question_id": 72073788,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72073788/getting-numberformat-exception-with-unknown-source-how-to-fix-this",
+      "title": "Getting Numberformat exception with unknown source. How to fix this"
+    },
+    {
+      "tags": [
+        "javascript",
+        "service-worker",
+        "workbox",
+        "service-worker-events"
+      ],
+      "owner": {
+        "account_id": 1256590,
+        "reputation": 3993,
+        "user_id": 1215913,
+        "user_type": "registered",
+        "accept_rate": 80,
+        "profile_image": "https://www.gravatar.com/avatar/27ed7f8c0bda6500be9329da5d405714?s=256&d=identicon&r=PG",
+        "display_name": "Alex",
+        "link": "https://stackoverflow.com/users/1215913/alex"
+      },
+      "is_answered": false,
+      "view_count": 8,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1651357339,
+      "creation_date": 1651357339,
+      "question_id": 72072605,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72072605/catching-exception-thrown-by-service-worker-message-event",
+      "title": "catching exception thrown by service worker message event"
+    },
+    {
+      "tags": [
+        "javascript",
+        "node.js",
+        "asynchronous",
+        "async-await"
+      ],
+      "owner": {
+        "account_id": 1368675,
+        "reputation": 113,
+        "user_id": 1304505,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/c5df1d36662f9f6486915f46e00fd847?s=256&d=identicon&r=PG",
+        "display_name": "Cb32019",
+        "link": "https://stackoverflow.com/users/1304505/cb32019"
+      },
+      "is_answered": false,
+      "view_count": 26,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1651355911,
+      "creation_date": 1651286116,
+      "last_edit_date": 1651355911,
+      "question_id": 72065278,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72065278/exception-thrown-in-nested-async-await-functions-causes-unexpected-behavior",
+      "title": "Exception thrown in nested async / await functions causes unexpected behavior"
+    },
+    {
+      "tags": [
+        "java",
+        "spring-boot",
+        "mockito",
+        "junit5"
+      ],
+      "owner": {
+        "account_id": 25147289,
+        "reputation": 1,
+        "user_id": 18992905,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/5c0dd1e2fa649ee456a356ca4f0b0dd9?s=256&d=identicon&r=PG",
+        "display_name": "NewDBLearner",
+        "link": "https://stackoverflow.com/users/18992905/newdblearner"
+      },
+      "is_answered": false,
+      "view_count": 27,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1651354145,
+      "creation_date": 1651354145,
+      "question_id": 72072308,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72072308/how-to-test-exception-in-junit-5-in-spring-boot",
+      "title": "How to test exception in junit 5 in spring boot?"
+    },
+    {
+      "tags": [
+        "c#",
+        "exception",
+        "inheritance"
+      ],
+      "owner": {
+        "account_id": 20798997,
+        "reputation": 19,
+        "user_id": 15275462,
+        "user_type": "registered",
+        "profile_image": "https://lh4.googleusercontent.com/-E0b9sNdCsUc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckikDWk1qXFqWktP_9JZRo8s1AgYQ/s96-c/photo.jpg?sz=256",
+        "display_name": "YoNa",
+        "link": "https://stackoverflow.com/users/15275462/yona"
+      },
+      "is_answered": true,
+      "view_count": 27,
+      "accepted_answer_id": 72071274,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1651353295,
+      "creation_date": 1651342314,
+      "question_id": 72071002,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72071002/how-to-make-parents-exception-throw-message-defined-in-child",
+      "title": "How to make parent&#39;s Exception throw message defined in child?"
+    },
+    {
+      "tags": [
+        "android",
+        "android-recyclerview",
+        "ongloballayoutlistener"
+      ],
+      "owner": {
+        "account_id": 17296984,
+        "reputation": 45,
+        "user_id": 12527432,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/bf9fdea78eb3c2303c92c02c4f07c248?s=256&d=identicon&r=PG&f=1",
+        "display_name": "Shimon Cohen",
+        "link": "https://stackoverflow.com/users/12527432/shimon-cohen"
+      },
+      "is_answered": false,
+      "view_count": 12,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1651351566,
+      "creation_date": 1651351566,
+      "question_id": 72072057,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72072057/callback-of-when-recyclerview-has-finished-loading-its-content-is-loaded-more-th",
+      "title": "callback of when RecyclerView has finished loading its content is loaded more than once and raising exception"
+    },
+    {
+      "tags": [
+        "spring",
+        "spring-boot",
+        "apache-kafka",
+        "spring-kafka"
+      ],
+      "owner": {
+        "account_id": 965625,
+        "reputation": 2460,
+        "user_id": 1103606,
+        "user_type": "registered",
+        "accept_rate": 51,
+        "profile_image": "https://www.gravatar.com/avatar/0d93cc650b93939ea91066fcb5aefae0?s=256&d=identicon&r=PG",
+        "display_name": "Peter Penzov",
+        "link": "https://stackoverflow.com/users/1103606/peter-penzov"
+      },
+      "is_answered": false,
+      "view_count": 29,
+      "bounty_amount": 200,
+      "bounty_closes_date": 1651941501,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1651336701,
+      "creation_date": 1630876701,
+      "last_edit_date": 1651336692,
+      "question_id": 69067277,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/69067277/bean-instantiation-via-factory-method-failed-exception-org-springframework-bean",
+      "title": "Bean instantiation via factory method failed; exception org.springframework.beans.BeanInstantiationException"
+    },
+    {
+      "tags": [
+        "spring",
+        "spring-boot",
+        "apache-kafka",
+        "spring-kafka"
+      ],
+      "owner": {
+        "account_id": 965625,
+        "reputation": 2460,
+        "user_id": 1103606,
+        "user_type": "registered",
+        "accept_rate": 51,
+        "profile_image": "https://www.gravatar.com/avatar/0d93cc650b93939ea91066fcb5aefae0?s=256&d=identicon&r=PG",
+        "display_name": "Peter Penzov",
+        "link": "https://stackoverflow.com/users/1103606/peter-penzov"
+      },
+      "is_answered": false,
+      "view_count": 14,
+      "closed_date": 1648266253,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1651336448,
+      "creation_date": 1648255701,
+      "last_edit_date": 1651336448,
+      "question_id": 71624508,
+      "link": "https://stackoverflow.com/questions/71624508/bean-instantiation-via-factory-method-failed-nested-exception-is-org-springfram",
+      "closed_reason": "Duplicate",
+      "title": "Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException"
+    },
+    {
+      "tags": [
+        "javascript",
+        "typescript",
+        "code-generation",
+        "openapi"
+      ],
+      "owner": {
+        "account_id": 4323297,
+        "reputation": 429,
+        "user_id": 3530767,
+        "user_type": "registered",
+        "accept_rate": 75,
+        "profile_image": "https://www.gravatar.com/avatar/?s=256&d=identicon&r=PG&f=1",
+        "display_name": "Damian Pereira",
+        "link": "https://stackoverflow.com/users/3530767/damian-pereira"
+      },
+      "is_answered": false,
+      "view_count": 11,
+      "answer_count": 0,
+      "score": -1,
+      "last_activity_date": 1651335124,
+      "creation_date": 1651335124,
+      "question_id": 72070107,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72070107/is-there-any-javascript-or-typescript-openapi-generator-that-supports-raising-ex",
+      "title": "Is there any javascript or typescript openapi generator that supports raising exception on runtime when returned value has wrong shape?"
+    },
+    {
+      "tags": [
+        "android",
+        "react-native",
+        "gradlew"
+      ],
+      "owner": {
+        "account_id": 11267501,
+        "reputation": 73,
+        "user_id": 8263882,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/e497bb80ddcf0056b3ff5b76c3792b15?s=256&d=identicon&r=PG&f=1",
+        "display_name": "Exoriri",
+        "link": "https://stackoverflow.com/users/8263882/exoriri"
+      },
+      "is_answered": false,
+      "view_count": 8,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1651333225,
+      "creation_date": 1651333225,
+      "question_id": 72069879,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72069879/fatal-exception-mqt-native-modules-error-in-apk-build-react-native",
+      "title": "FATAL EXCEPTION: mqt_native_modules. Error in APK build react native"
+    },
+    {
+      "tags": [
+        "java",
+        "mysql",
+        "prepared-statement"
+      ],
+      "owner": {
+        "account_id": 22840956,
+        "reputation": 3,
+        "user_id": 16987981,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a/AATXAJyb6CEC3EfumROq8-hiYPsh9XLomAp-brQPZ2ho=k-s256",
+        "display_name": "Himanshu Tech",
+        "link": "https://stackoverflow.com/users/16987981/himanshu-tech"
+      },
+      "is_answered": false,
+      "view_count": 23,
+      "closed_date": 1651334790,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1651332374,
+      "creation_date": 1651331611,
+      "last_edit_date": 1651332374,
+      "question_id": 72069690,
+      "link": "https://stackoverflow.com/questions/72069690/mysql-preparedstatement-update-not-working-exception-is-not-clear",
+      "closed_reason": "Duplicate",
+      "title": "mysql PreparedStatement update not working. Exception is not clear"
+    },
+    {
+      "tags": [
+        "c#",
+        "linq-to-sql"
+      ],
+      "owner": {
+        "account_id": 21337340,
+        "reputation": 1,
+        "user_id": 15708376,
+        "user_type": "registered",
+        "profile_image": "https://lh5.googleusercontent.com/-9IvuDZj2DwQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnexCRp1gRPlcn04AvSaGOHukZvpg/s96-c/photo.jpg?sz=256",
+        "display_name": "Jason_27",
+        "link": "https://stackoverflow.com/users/15708376/jason-27"
+      },
+      "is_answered": false,
+      "view_count": 22,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1651331650,
+      "creation_date": 1651331650,
+      "question_id": 72069696,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72069696/object-disposed-exception-in-delete-button",
+      "title": "Object Disposed Exception in Delete Button"
+    },
+    {
+      "tags": [
+        "java",
+        "if-statement",
+        "exception",
+        "conditional-statements"
+      ],
+      "owner": {
+        "account_id": 20196970,
+        "reputation": 1,
+        "user_id": 14813670,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/7d10626eeb5c17db0855895e5860c242?s=256&d=identicon&r=PG&f=1",
+        "display_name": "miaG",
+        "link": "https://stackoverflow.com/users/14813670/miag"
+      },
+      "is_answered": false,
+      "view_count": 42,
+      "answer_count": 1,
+      "score": -5,
+      "last_activity_date": 1651329863,
+      "creation_date": 1651329637,
+      "last_edit_date": 1651329801,
+      "question_id": 72069442,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72069442/how-to-use-an-exception-in-a-condition-in-java",
+      "title": "how to use an exception in a condition in JAVA"
+    },
+    {
+      "tags": [
+        "codeception"
+      ],
+      "owner": {
+        "account_id": 2151664,
+        "reputation": 3628,
+        "user_id": 1907888,
+        "user_type": "registered",
+        "accept_rate": 93,
+        "profile_image": "https://i.stack.imgur.com/QisuQ.png?s=256&g=1",
+        "display_name": "Robert Sinclair",
+        "link": "https://stackoverflow.com/users/1907888/robert-sinclair"
+      },
+      "is_answered": false,
+      "view_count": 8,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1651328647,
+      "creation_date": 1651291297,
+      "last_edit_date": 1651328647,
+      "question_id": 72065602,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72065602/codeception-test-returning-facebook-webdriver-exception-unknownerrorexception",
+      "title": "Codeception test returning [Facebook\\WebDriver\\Exception\\UnknownErrorException] InternalError: too much recursion"
+    },
+    {
+      "tags": [
+        "c#"
+      ],
+      "owner": {
+        "account_id": 25155345,
+        "reputation": 1,
+        "user_id": 19000240,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/4eddffde2a0aa1b27d7f4505e7fe189c?s=256&d=identicon&r=PG",
+        "display_name": "rkalff",
+        "link": "https://stackoverflow.com/users/19000240/rkalff"
+      },
+      "is_answered": false,
+      "view_count": 41,
+      "answer_count": 1,
+      "score": -1,
+      "last_activity_date": 1651321707,
+      "creation_date": 1651320697,
+      "last_edit_date": 1651321612,
+      "question_id": 72068419,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72068419/c-thrown-exception-only-results-in-unhandled-exception",
+      "title": "C#: Thrown exception only results in unhandled exception"
+    }
+  ],
+  "has_more": true,
+  "quota_max": 300,
+  "quota_remaining": 199
+}

@@ -1,0 +1,819 @@
+{
+  "items": [
+    {
+      "tags": [
+        "html",
+        "css",
+        "blogger",
+        "blogs"
+      ],
+      "owner": {
+        "account_id": 19448635,
+        "reputation": 47,
+        "user_id": 14225577,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a-/AOh14GizMFwtvGFkXQtXQlgx-lEaJEQj-QMG9iViHsLH1g=k-s256",
+        "display_name": "Imran Syed",
+        "link": "https://stackoverflow.com/users/14225577/imran-syed"
+      },
+      "is_answered": false,
+      "view_count": 3,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1651407367,
+      "creation_date": 1651407367,
+      "question_id": 72076614,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72076614/how-to-create-grid-layout-in-blogger-with-title-image-and-button-inside-every-g",
+      "title": "How to create grid layout in Blogger with title, image and button inside every grid"
+    },
+    {
+      "tags": [
+        "angular",
+        "angular-universal"
+      ],
+      "owner": {
+        "account_id": 19983447,
+        "reputation": 47,
+        "user_id": 14646054,
+        "user_type": "registered",
+        "profile_image": "https://lh5.googleusercontent.com/-2LzaYL-NSu8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl3MNNarc_Awj5MXM4osqCPZ2AEBA/s96-c/photo.jpg?sz=256",
+        "display_name": "Kumaravel A",
+        "link": "https://stackoverflow.com/users/14646054/kumaravel-a"
+      },
+      "is_answered": false,
+      "view_count": 7,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1651401216,
+      "creation_date": 1651401216,
+      "question_id": 72075925,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72075925/meta-data-and-title-is-not-updating-after-router-navigate-angular-13",
+      "title": "meta data and title is not updating after router.navigate angular 13"
+    },
+    {
+      "tags": [
+        "wordpress",
+        "carousel",
+        "elementor"
+      ],
+      "owner": {
+        "account_id": 25162437,
+        "reputation": 1,
+        "user_id": 19006445,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a-/AOh14Gg3-FNviFPmeSE0jm6amRARCvC28WBce3LoT3yPNQ=k-s256",
+        "display_name": "Reda Cricroun",
+        "link": "https://stackoverflow.com/users/19006445/reda-cricroun"
+      },
+      "is_answered": false,
+      "view_count": 10,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1651392179,
+      "creation_date": 1651392179,
+      "question_id": 72074992,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72074992/add-title-attribute-to-elementor-carousel-images",
+      "title": "Add title attribute to elementor carousel images"
+    },
+    {
+      "tags": [
+        "javascript",
+        "selenium",
+        "autoit"
+      ],
+      "owner": {
+        "account_id": 20045258,
+        "reputation": 1,
+        "user_id": 14695092,
+        "user_type": "registered",
+        "profile_image": "https://lh5.googleusercontent.com/-1SfJXRko6ZA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckFu5-wCY4LXXPeO5qjbGBly0Svsw/s96-c/photo.jpg?sz=256",
+        "display_name": "javzuk",
+        "link": "https://stackoverflow.com/users/14695092/javzuk"
+      },
+      "is_answered": false,
+      "view_count": 22,
+      "answer_count": 0,
+      "score": -1,
+      "last_activity_date": 1651362347,
+      "creation_date": 1651345726,
+      "last_edit_date": 1651362347,
+      "question_id": 72071414,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72071414/how-can-i-get-the-question-title-of-the-popupopen-pick-an-app-when-i-click-a",
+      "title": "How can I get the question title of the popup(&quot;Open Pick an app?) when I click a phone number link?"
+    },
+    {
+      "tags": [
+        "r",
+        "ggplot2"
+      ],
+      "owner": {
+        "account_id": 5503375,
+        "reputation": 841,
+        "user_id": 4403073,
+        "user_type": "registered",
+        "accept_rate": 64,
+        "profile_image": "https://www.gravatar.com/avatar/b198356cd722b2fa160b7c4ed0b5bde9?s=256&d=identicon&r=PG",
+        "display_name": "Justas Mundeikis",
+        "link": "https://stackoverflow.com/users/4403073/justas-mundeikis"
+      },
+      "is_answered": false,
+      "view_count": 25,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1651354887,
+      "creation_date": 1651346413,
+      "last_edit_date": 1651347136,
+      "question_id": 72071508,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72071508/ggplot-title-from-within-filtered-data",
+      "title": "ggplot title from within filtered data"
+    },
+    {
+      "tags": [
+        "rss"
+      ],
+      "owner": {
+        "account_id": 21324727,
+        "reputation": 1,
+        "user_id": 15697287,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/f520ec098a5dace1d233c3ccabb7102c?s=256&d=identicon&r=PG&f=1",
+        "display_name": "Toonstech",
+        "link": "https://stackoverflow.com/users/15697287/toonstech"
+      },
+      "is_answered": false,
+      "view_count": 2,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1651349050,
+      "creation_date": 1651349050,
+      "question_id": 72071793,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72071793/rss-title-tag-not-displaying-data",
+      "title": "RSS title tag not displaying data"
+    },
+    {
+      "tags": [
+        "swift",
+        "xcode",
+        "swiftui",
+        "picker"
+      ],
+      "owner": {
+        "account_id": 24175352,
+        "reputation": 61,
+        "user_id": 18136808,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/a2dbe1bd6a7b9b33a840ec57f6dd2139?s=256&d=identicon&r=PG",
+        "display_name": "carlo97",
+        "link": "https://stackoverflow.com/users/18136808/carlo97"
+      },
+      "is_answered": true,
+      "view_count": 17,
+      "accepted_answer_id": 72070597,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1651339061,
+      "creation_date": 1651336444,
+      "question_id": 72070274,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72070274/set-picker-default-no-clickable-value-as-title",
+      "title": "Set picker default no clickable value as title"
+    },
+    {
+      "tags": [
+        "swiftui",
+        "swiftui-navigationview"
+      ],
+      "owner": {
+        "account_id": 401699,
+        "reputation": 2409,
+        "user_id": 768419,
+        "user_type": "registered",
+        "accept_rate": 42,
+        "profile_image": "https://www.gravatar.com/avatar/ba834d377c8f44dc94a3efc0e16a6853?s=256&d=identicon&r=PG",
+        "display_name": "Perry Hoekstra",
+        "link": "https://stackoverflow.com/users/768419/perry-hoekstra"
+      },
+      "is_answered": true,
+      "view_count": 11,
+      "accepted_answer_id": 72070466,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1651337846,
+      "creation_date": 1651336099,
+      "question_id": 72070221,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72070221/swiftui-how-to-set-child-screen-title",
+      "title": "SwiftUI - How To Set Child Screen Title"
+    },
+    {
+      "tags": [
+        "python",
+        "kivy",
+        "title",
+        "kivymd"
+      ],
+      "owner": {
+        "account_id": 23737610,
+        "reputation": 35,
+        "user_id": 17756105,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a/AATXAJy-84eZQnUsZVbqt_-FRyeYjSr5MEeDUnr3JleM=k-s256",
+        "display_name": "정영훈",
+        "link": "https://stackoverflow.com/users/17756105/%ec%a0%95%ec%98%81%ed%9b%88"
+      },
+      "is_answered": true,
+      "view_count": 14,
+      "accepted_answer_id": 72069934,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1651333728,
+      "creation_date": 1651327513,
+      "question_id": 72069170,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72069170/how-to-update-the-title-of-an-app-in-kivy-by-clicking-a-button",
+      "title": "How to update the title of an App in kivy by clicking a button"
+    },
+    {
+      "tags": [
+        "google-apps-script",
+        "web-applications"
+      ],
+      "owner": {
+        "account_id": 24989872,
+        "reputation": 1,
+        "user_id": 18851202,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a/AATXAJzHcNF6ocjdGLelN7b8I1cpHsk0V1KC9R9CX6Qd=k-s256",
+        "display_name": "David Aguiar Aquino Paiva",
+        "link": "https://stackoverflow.com/users/18851202/david-aguiar-aquino-paiva"
+      },
+      "is_answered": false,
+      "view_count": 22,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1651333294,
+      "creation_date": 1651254955,
+      "last_edit_date": 1651333294,
+      "question_id": 72061987,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72061987/settitle-not-changing-the-title",
+      "title": "setTitle() not changing the title"
+    },
+    {
+      "tags": [
+        "css",
+        "wordpress",
+        "elementor"
+      ],
+      "owner": {
+        "account_id": 23137299,
+        "reputation": 1,
+        "user_id": 17241359,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/IkUXL.jpg?s=256&g=1",
+        "display_name": "pouya pazhoohandeh",
+        "link": "https://stackoverflow.com/users/17241359/pouya-pazhoohandeh"
+      },
+      "is_answered": false,
+      "view_count": 23,
+      "closed_date": 1651238305,
+      "answer_count": 0,
+      "score": -3,
+      "last_activity_date": 1651326356,
+      "creation_date": 1651236243,
+      "last_edit_date": 1651326356,
+      "question_id": 72058183,
+      "link": "https://stackoverflow.com/questions/72058183/how-does-a-background-photo-crystallize-when-the-mouse-hovers-over-the-title-hov",
+      "closed_reason": "Needs details or clarity",
+      "title": "How does a background photo crystallize when the mouse hovers over the title hover in my custom elementor element?"
+    },
+    {
+      "tags": [
+        "c#",
+        "generics"
+      ],
+      "owner": {
+        "account_id": 431991,
+        "reputation": 2163,
+        "user_id": 816438,
+        "user_type": "registered",
+        "accept_rate": 41,
+        "profile_image": "https://i.stack.imgur.com/4Gj1h.jpg?s=256&g=1",
+        "display_name": "Cowborg",
+        "link": "https://stackoverflow.com/users/816438/cowborg"
+      },
+      "is_answered": false,
+      "view_count": 47,
+      "answer_count": 1,
+      "score": -1,
+      "last_activity_date": 1651312451,
+      "creation_date": 1651308385,
+      "last_edit_date": 1651312108,
+      "question_id": 72066990,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72066990/treat-inherited-class-as-its-generic-parent-sorry-for-bad-title",
+      "title": "Treat inherited class as its generic parent (sorry for bad title)"
+    },
+    {
+      "tags": [
+        "java",
+        "android",
+        "android-studio"
+      ],
+      "owner": {
+        "account_id": 13730197,
+        "reputation": 1343,
+        "user_id": 10485156,
+        "user_type": "registered",
+        "profile_image": "https://graph.facebook.com/1691084777644513/picture?type=large",
+        "display_name": "Omar Shawky",
+        "link": "https://stackoverflow.com/users/10485156/omar-shawky"
+      },
+      "is_answered": false,
+      "view_count": 14,
+      "answer_count": 0,
+      "score": 1,
+      "last_activity_date": 1651260156,
+      "creation_date": 1651255969,
+      "last_edit_date": 1651260156,
+      "question_id": 72062143,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72062143/how-to-get-menu-item-title-in-different-locale-on-selection",
+      "title": "How to get Menu Item title in different Locale on selection?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "regex",
+        "string"
+      ],
+      "owner": {
+        "account_id": 52803,
+        "reputation": 19253,
+        "user_id": 157837,
+        "user_type": "registered",
+        "accept_rate": 82,
+        "profile_image": "https://i.stack.imgur.com/OsDnz.jpg?s=256&g=1",
+        "display_name": "HyderA",
+        "link": "https://stackoverflow.com/users/157837/hydera"
+      },
+      "is_answered": true,
+      "view_count": 131054,
+      "accepted_answer_id": 7225450,
+      "answer_count": 26,
+      "score": 210,
+      "last_activity_date": 1651254318,
+      "creation_date": 1314583405,
+      "last_edit_date": 1647561448,
+      "question_id": 7225407,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/7225407/convert-camelcasetext-to-title-case-text",
+      "title": "Convert camelCaseText to Title Case Text"
+    },
+    {
+      "tags": [
+        "php",
+        "unicode",
+        "domdocument"
+      ],
+      "owner": {
+        "account_id": 1066600,
+        "reputation": 17313,
+        "user_id": 1067003,
+        "user_type": "registered",
+        "accept_rate": 62,
+        "profile_image": "https://www.gravatar.com/avatar/e3af2bd4b5604b0b661b5e6646544eba?s=256&d=identicon&r=PG",
+        "display_name": "hanshenrik",
+        "link": "https://stackoverflow.com/users/1067003/hanshenrik"
+      },
+      "is_answered": true,
+      "view_count": 33,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1651250835,
+      "creation_date": 1651244097,
+      "last_edit_date": 1651246519,
+      "question_id": 72059874,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72059874/in-domdocument-why-does-an-en-dash-in-a-title-tag-break-unicode-strings",
+      "title": "in DOMDocument why does an &quot;en dash&quot; in a title tag break unicode strings?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "html",
+        "css",
+        "templates",
+        "oracle-apex"
+      ],
+      "owner": {
+        "account_id": 6446866,
+        "reputation": 83,
+        "user_id": 4995125,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/2650f605e54a944bd106c84e0749eb39?s=256&d=identicon&r=PG&f=1",
+        "display_name": "Chris Conaty",
+        "link": "https://stackoverflow.com/users/4995125/chris-conaty"
+      },
+      "is_answered": false,
+      "view_count": 656,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1651246337,
+      "creation_date": 1458922687,
+      "last_edit_date": 1459582873,
+      "question_id": 36223744,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/36223744/cannot-use-the-title-attribute-in-the-side-navigation-list-template-in-oracle-ap",
+      "title": "Cannot use the title attribute in the side navigation list template in Oracle Apex 5.0"
+    },
+    {
+      "tags": [
+        "python",
+        "seaborn"
+      ],
+      "owner": {
+        "account_id": 9629096,
+        "reputation": 932,
+        "user_id": 7147717,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/8273268feb6fa1660728003573962353?s=256&d=identicon&r=PG&f=1",
+        "display_name": "hachiko",
+        "link": "https://stackoverflow.com/users/7147717/hachiko"
+      },
+      "is_answered": false,
+      "view_count": 17,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1651240983,
+      "creation_date": 1651240983,
+      "question_id": 72059196,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72059196/python-title-disappears-when-trying-to-align-it-to-the-left-in-seaborn",
+      "title": "python title disappears when trying to align it to the left in seaborn"
+    },
+    {
+      "tags": [
+        "vuex",
+        "vuejs3"
+      ],
+      "owner": {
+        "account_id": 18181963,
+        "reputation": 1,
+        "user_id": 13229531,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a-/AOh14Gj3jo0Q2Pq_WHvsQ2eGxhHLTdVCilkIDP60SmsXow=k-s256",
+        "display_name": "Qais Wardag",
+        "link": "https://stackoverflow.com/users/13229531/qais-wardag"
+      },
+      "is_answered": false,
+      "view_count": 7,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1651240958,
+      "creation_date": 1651240958,
+      "question_id": 72059184,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72059184/how-to-use-modal-in-vue3-and-bind-unique-title-to-it-depending-on-which-view-or",
+      "title": "How to use Modal in Vue3 and bind unique title to it depending on which view or component it is on"
+    },
+    {
+      "tags": [
+        "r",
+        "leaflet"
+      ],
+      "owner": {
+        "account_id": 24846210,
+        "reputation": 1,
+        "user_id": 18723720,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/0da4870833d041a0c1efa18fbc7668dc?s=256&d=identicon&r=PG",
+        "display_name": "user18723720",
+        "link": "https://stackoverflow.com/users/18723720/user18723720"
+      },
+      "is_answered": false,
+      "view_count": 17,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1651238926,
+      "creation_date": 1651236626,
+      "question_id": 72058255,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72058255/add-a-title-and-description-to-leaflet-map",
+      "title": "Add a title and description to leaflet map"
+    },
+    {
+      "tags": [
+        "php",
+        "html"
+      ],
+      "owner": {
+        "account_id": 24352664,
+        "reputation": 1,
+        "user_id": 18288298,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/af69dc2ba0886468f4e564cd607a59b2?s=256&d=identicon&r=PG",
+        "display_name": "Gauts",
+        "link": "https://stackoverflow.com/users/18288298/gauts"
+      },
+      "is_answered": false,
+      "view_count": 15,
+      "closed_date": 1651248600,
+      "answer_count": 0,
+      "score": -1,
+      "last_activity_date": 1651235953,
+      "creation_date": 1651235953,
+      "question_id": 72058121,
+      "link": "https://stackoverflow.com/questions/72058121/how-to-avoid-duplicate-title-when-index-is-the-same-page-than-default-lang-dir",
+      "closed_reason": "Needs details or clarity",
+      "title": "how to avoid duplicate title when index is the same page than default /lang/ dir?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "google-apps-script",
+        "iframe",
+        "web-applications",
+        "alert"
+      ],
+      "owner": {
+        "account_id": 7544135,
+        "reputation": 354,
+        "user_id": 5727826,
+        "user_type": "registered",
+        "accept_rate": 64,
+        "profile_image": "https://i.stack.imgur.com/I1VnO.jpg?s=256&g=1",
+        "display_name": "aks",
+        "link": "https://stackoverflow.com/users/5727826/aks"
+      },
+      "is_answered": true,
+      "view_count": 16,
+      "accepted_answer_id": 72057184,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1651231384,
+      "creation_date": 1651228259,
+      "question_id": 72056559,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72056559/can-we-edit-title-of-windows-alert-box-being-used-in-google-apps-script",
+      "title": "Can we edit title of windows alert box being used in Google Apps script?"
+    },
+    {
+      "tags": [
+        "git",
+        "powershell",
+        "posh-git"
+      ],
+      "owner": {
+        "account_id": 13015433,
+        "reputation": 31,
+        "user_id": 9406881,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/66d8137541706a0724dc9a150050bb3d?s=256&d=identicon&r=PG&f=1",
+        "display_name": "Geeven Singh",
+        "link": "https://stackoverflow.com/users/9406881/geeven-singh"
+      },
+      "is_answered": true,
+      "view_count": 418,
+      "accepted_answer_id": 49951151,
+      "answer_count": 3,
+      "score": 2,
+      "last_activity_date": 1651229266,
+      "creation_date": 1524267854,
+      "question_id": 49951006,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/49951006/how-do-i-remove-the-cruft-at-the-start-of-my-posh-git-window-title",
+      "title": "How do I remove the cruft at the start of my posh-git window title?"
+    },
+    {
+      "tags": [
+        "php",
+        "dynamic",
+        "title"
+      ],
+      "owner": {
+        "account_id": 188123,
+        "reputation": 234146,
+        "user_id": 426671,
+        "user_type": "registered",
+        "accept_rate": 96,
+        "profile_image": "https://i.stack.imgur.com/zgBsf.jpg?s=256&g=1",
+        "display_name": "Taryn",
+        "link": "https://stackoverflow.com/users/426671/taryn"
+      },
+      "is_answered": true,
+      "view_count": 21829,
+      "accepted_answer_id": 4298361,
+      "answer_count": 11,
+      "score": 5,
+      "last_activity_date": 1651224681,
+      "creation_date": 1290968857,
+      "question_id": 4298270,
+      "content_license": "CC BY-SA 2.5",
+      "link": "https://stackoverflow.com/questions/4298270/dynamic-title-tag-in-php",
+      "title": "Dynamic Title Tag in PHP"
+    },
+    {
+      "tags": [
+        "html",
+        "css",
+        "tabs",
+        "title"
+      ],
+      "owner": {
+        "account_id": 25136065,
+        "reputation": 3,
+        "user_id": 18982824,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/7f5fa47bcf5b7b9c1bf7f2ede67725c9?s=256&d=identicon&r=PG",
+        "display_name": "AltClickRick",
+        "link": "https://stackoverflow.com/users/18982824/altclickrick"
+      },
+      "is_answered": true,
+      "view_count": 15,
+      "accepted_answer_id": 72051721,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1651195211,
+      "creation_date": 1651193558,
+      "question_id": 72051683,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72051683/alt-tab-page-title-animation",
+      "title": "Alt tab page title &quot;animation&quot;"
+    },
+    {
+      "tags": [
+        "r",
+        "plotly",
+        "size",
+        "title",
+        "r-plotly"
+      ],
+      "owner": {
+        "account_id": 25022905,
+        "reputation": 11,
+        "user_id": 18881419,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/d1a5e3297deb610c9215f2c0f1037def?s=256&d=identicon&r=PG",
+        "display_name": "iresolmi",
+        "link": "https://stackoverflow.com/users/18881419/iresolmi"
+      },
+      "is_answered": true,
+      "view_count": 18,
+      "answer_count": 1,
+      "score": 1,
+      "last_activity_date": 1651195115,
+      "creation_date": 1651132597,
+      "last_edit_date": 1651137613,
+      "question_id": 72039991,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72039991/plotly-subplot-title-position-r",
+      "title": "Plotly subplot title position r"
+    },
+    {
+      "tags": [
+        "c#",
+        ".net",
+        "maui"
+      ],
+      "owner": {
+        "account_id": 22104575,
+        "reputation": 1,
+        "user_id": 16360496,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/04f72c8fdcc5bf8f4210adaed91406ea?s=256&d=identicon&r=PG&f=1",
+        "display_name": "Matsenko1",
+        "link": "https://stackoverflow.com/users/16360496/matsenko1"
+      },
+      "is_answered": false,
+      "view_count": 55,
+      "answer_count": 1,
+      "score": -1,
+      "last_activity_date": 1651193417,
+      "creation_date": 1651172202,
+      "last_edit_date": 1651175044,
+      "question_id": 72048924,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72048924/cant-get-access-to-the-field-title-when-im-trying-to-acces-via-field-of-a-ar",
+      "title": "Can&#39;t get access to the field &quot;title&quot;,when I&#39;m trying to acces via field of a array"
+    },
+    {
+      "tags": [
+        "templates",
+        "viewport",
+        "cover"
+      ],
+      "owner": {
+        "account_id": 25135555,
+        "reputation": 1,
+        "user_id": 18982367,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/3e5e75ec27a91e20886a3e209d5e2e84?s=256&d=identicon&r=PG",
+        "display_name": "J4N_SOLO",
+        "link": "https://stackoverflow.com/users/18982367/j4n-solo"
+      },
+      "is_answered": false,
+      "view_count": 6,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1651191562,
+      "creation_date": 1651191562,
+      "question_id": 72051535,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72051535/cover-template-page-title-and-scroll-indicator-below-visible-area-viewport",
+      "title": "Cover-Template: Page Title and Scroll Indicator below visible area (viewport)"
+    },
+    {
+      "tags": [
+        "jira",
+        "jira-rest-api",
+        "jira-plugin",
+        "jira-xray"
+      ],
+      "owner": {
+        "account_id": 6125624,
+        "reputation": 29,
+        "user_id": 4777737,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/185f0243bfe80583baeeb2605a311a02?s=256&d=identicon&r=PG&f=1",
+        "display_name": "pgundlupet",
+        "link": "https://stackoverflow.com/users/4777737/pgundlupet"
+      },
+      "is_answered": true,
+      "view_count": 19,
+      "accepted_answer_id": 72050809,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1651184259,
+      "creation_date": 1651100084,
+      "last_edit_date": 1651171766,
+      "question_id": 72036127,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72036127/pre-condition-summary-and-description-when-exported-from-jira-are-not-mapped-to",
+      "title": "Pre-condition Summary and Description when Exported from Jira are not mapped to Cucumber Background Title and Description section"
+    },
+    {
+      "tags": [
+        "python",
+        "bottle"
+      ],
+      "owner": {
+        "account_id": 17486026,
+        "reputation": 1,
+        "user_id": 12679046,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/8464fc15682a3744a1368cac9bb4de89?s=256&d=identicon&r=PG&f=1",
+        "display_name": "annelie",
+        "link": "https://stackoverflow.com/users/12679046/annelie"
+      },
+      "is_answered": false,
+      "view_count": 22,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1651179727,
+      "creation_date": 1651168272,
+      "question_id": 72048213,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72048213/rename-title-in-storage-without-creating-new-one-in-bootle-python",
+      "title": "Rename title in storage without creating new one in bootle python"
+    },
+    {
+      "tags": [
+        "c#",
+        ".net",
+        "excel",
+        "office-interop",
+        "office-automation"
+      ],
+      "owner": {
+        "account_id": 2443217,
+        "reputation": 55,
+        "user_id": 2131171,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/c8479749bf6c268764d7cf1fb6f023e0?s=256&d=identicon&r=PG",
+        "display_name": "Van Le Thanh",
+        "link": "https://stackoverflow.com/users/2131171/van-le-thanh"
+      },
+      "is_answered": false,
+      "view_count": 16,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1651179370,
+      "creation_date": 1651166874,
+      "last_edit_date": 1651179370,
+      "question_id": 72047938,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/72047938/how-to-get-the-position-of-chart-title-in-excel-by-c",
+      "title": "How to get the position of chart title in Excel by C#?"
+    }
+  ],
+  "has_more": true,
+  "quota_max": 300,
+  "quota_remaining": 202
+}
