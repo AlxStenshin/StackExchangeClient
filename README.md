@@ -38,7 +38,7 @@ This application provides access to its functionality in two ways:
 
 1. via self-explaining Web-interface, available at http://localhost:8080/
 
-2. via REST API at http://localhost/api/questions
+2. via REST API at http://localhost:8080/api/questions
 Only GET method available. At least two parameters allowed:
     - title, String, required value. Specifies query for searching over Stackoverflow questions.
     - page, Integer, optional value. Allows navigating over multi-page responses.
